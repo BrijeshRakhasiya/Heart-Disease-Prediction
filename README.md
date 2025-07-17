@@ -78,16 +78,6 @@ git clone https://github.com/BrijeshRakhasiya/Heart-Disease-Prediction.git
 cd Heart-Disease-Prediction
 ```
 
-## Acknowledgments
-- Dataset source: Kaggle Heart Disease Dataset (Comprehensive)
-- American Heart Association for statistical data
-- Thanks to all contributors who have helped with this project
-
-## Contact
-Your Name - brijeshrakhasiya.aiml@gmail.com
-
-Project Link: (https://github.com/BrijeshRakhasiya/Heart-Disease-Prediction.git)
-
 ## 📄 License
 
 This project is licensed under the MIT License.
